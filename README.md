@@ -1,15 +1,8 @@
-<img src="https://raw.githubusercontent.com/freenas/gui/master/Shark.jpg">
+# SuperNAS
 
-# FreeNAS 10 GUI Development
+SuperNAS is a super awesome GUI client for FreeNAS 10, forked from the original super awesome GUI client from FreeNAS 10. It is super awesome.
 
-FreeNAS 10 is the next version of FreeNAS, a FreeBSD-based open source NAS
-operating system. This repo is where development of the GUI happens.
+SuperNAS is not owned, developed by, or associated with iXsystems or the FreeNAS project.
 
-To learn how to contribute to FreeNAS 10, read
-[CONTRIBUTING.md](https://github.com/freenas/gui/blob/master/CONTRIBUTING.md).
-
-## Other resources
-
-For documentation of the FreeNAS 10 GUI architecture, recommended tools, and
-contribution guidelines, see
-[freenas.github.io/gui](https://freenas.github.io/gui).
+# License
+[Creative Commons BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
